@@ -33,7 +33,8 @@ Link: https://power-swap-station.herokuapp.com/
 or alternative: streamlit run web.py
 
 ## Layout
-
+| layout | layout |
+| ------ | ------ |
 | ![layout1](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic5.jpg)   | ![layout2](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic6.jpg)   |
 | ![layout3](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic7.jpg)   | ![layout4](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic8.jpg)   |
 
