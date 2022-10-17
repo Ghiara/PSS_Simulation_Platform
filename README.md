@@ -1,18 +1,18 @@
 # PSS_Simulation_Platform
 
 ## Background
-`Simulation Platform` `Power Swap Station`  `Electric Vehicles` `Service Ability`
-![background](https://github.com/Ghiara/PSS_Simulation_Platform/tree/main/image/pic1.jpg)
+`Simulation Platform` `Power Swap Station`  `Electric Vehicles` `Service Ability`  
+![background](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic1.jpg)
 
 ## App Structure
 ```
 The block definition diagram
 ```
-![BDD](https://github.com/Ghiara/PSS_Simulation_Platform/tree/main/image/pic2.jpg)
+![BDD](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic2.jpg)
 ```
 The state flow diagram
 ```
-![stateflow](https://github.com/Ghiara/PSS_Simulation_Platform/tree/main/image/pic3.jpg)
+![stateflow](https://github.com/Ghiara/PSS_Simulation_Platform/raw/main/image/pic3.jpg)
 
 ## Usage
 Link: https://power-swap-station.herokuapp.com/
