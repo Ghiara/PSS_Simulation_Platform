@@ -1077,7 +1077,7 @@ if button_flag_2 == True:
         suburb_non_nio_user_num_list = areaNumDivision(num_suburb_pss, suburb_non_nio_user_num)
     else:
         suburb_non_nio_user_num_list = list(np.zeros(num_suburb_pss))
-        suburb_non_nio_user_num_list = [int(s) for s in suburb_nio_user_num_list]
+        suburb_non_nio_user_num_list = [int(s) for s in suburb_non_nio_user_num_list]
     
     # set up empty container ---> 区分出城镇站和郊区站的list
     user_dist_lst = []
