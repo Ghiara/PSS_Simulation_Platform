@@ -31,9 +31,9 @@ The state flow diagram
 Link: https://power-swap-station.herokuapp.com/
 
 or alternative: 
-'''bash
+```bash
 streamlit run web.py
-'''
+```
 
 ## Layout
 | layout | layout |
